@@ -222,7 +222,8 @@ body{
 }
 
 .dropDownMainCategory li:hover {
-    color: blue;
+    background: cyan;
+    color: black;
 }
 .mainCategory{
     
